@@ -4,7 +4,6 @@ Comprador Pleno com 10 anos de experiência no setor de construção civil, hoje
 
 🔭 Buscando atualmente uma posição de **estágio em desenvolvimento**
 🌱 Aprofundando conhecimento em **Node.js** e lógica de backend
-💬 Posso falar sobre gestão de compras, automação de processos e como uni as duas coisas
 
 ---
 
