@@ -21,16 +21,14 @@ Comprador Pleno com 10 anos de experiência no setor de construção civil, hoje
 
 ## ⭐ Projeto principal
 
-### 🔔 SONARE
-**[▶ jogar agora](https://guss-lf.github.io/SONARE/)** · [código-fonte](https://github.com/Guss-LF/SONARE)
+<img src="https://raw.githubusercontent.com/Guss-LF/SONARE/main/docs/logo.png" width="72" align="left" style="margin-right:12px;">
 
-<img src="https://raw.githubusercontent.com/Guss-LF/SONARE/main/docs/screenshot-gameplay.png" width="380" alt="Fase do Sonare em andamento">
-
-Quebra-cabeça de conexão sonora construído do zero, sem frameworks — HTML5 Canvas puro, um único arquivo. Arraste sinos, conecte-os pelo alcance real do som que emitem, e leve o sinal até o Sino Mestre. Cada uma das 19 fases é validada por um solver de força bruta próprio, garantindo que a meta de 3 estrelas seja sempre matematicamente alcançável.
-
-Esse é o projeto que carrego pra frente — meu principal cartão de visitas. Mostra não só código, mas processo de design, iteração e um problema resolvido do início ao fim, sem depender de nenhuma biblioteca pronta. Ainda em desenvolvimento ativo.
+### 🔔 [SONARE](https://github.com/Guss-LF/SONARE) — [jogar agora ▶](https://guss-lf.github.io/SONARE/)
+Quebra-cabeça de conexão sonora construído do zero, sem frameworks — HTML5 Canvas puro, um único arquivo. Cada uma das 19 fases é validada por um solver de força bruta próprio, garantindo que a meta de 3 estrelas seja sempre matematicamente alcançável. Ainda em desenvolvimento ativo — é o projeto que carrego pra frente.
 
 `HTML5 Canvas` `JavaScript` `Algoritmos` `Game Design`
+
+<br clear="left">
 
 ---
 
