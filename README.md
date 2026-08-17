@@ -24,7 +24,9 @@ Comprador Pleno com 10 anos de experiência no setor de construção civil, hoje
 <img src="https://raw.githubusercontent.com/Guss-LF/SONARE/main/docs/logo.png" width="72" align="left" style="margin-right:12px;">
 
 ### 🔔 [SONARE](https://github.com/Guss-LF/SONARE) — [jogar agora ▶](https://guss-lf.github.io/SONARE/)
-Quebra-cabeça de conexão sonora construído do zero, sem frameworks — HTML5 Canvas puro, um único arquivo. Cada uma das 19 fases é validada por um solver de força bruta próprio, garantindo que a meta de 3 estrelas seja sempre matematicamente alcançável. Ainda em desenvolvimento ativo — é o projeto que carrego pra frente.
+Quebra-cabeça de conexão sonora construído do zero, sem frameworks — HTML5 Canvas puro, um único arquivo. Cada uma das 19 fases é validada por um solver de força bruta próprio, garantindo que a meta de 3 estrelas seja sempre matematicamente alcançável.
+
+🚧 **Projeto pessoal em desenvolvimento — ainda não finalizado.** Fases, mecânicas e visual continuam mudando; é o projeto que carrego pra frente e atualizo com frequência.
 
 `HTML5 Canvas` `JavaScript` `Algoritmos` `Game Design`
 
