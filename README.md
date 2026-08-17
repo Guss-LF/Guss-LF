@@ -1,6 +1,6 @@
 # Olá, eu sou o Gustavo 👋
 
-Comprador Pleno com 10 anos de experiência no setor de construção civil, hoje migrando para Desenvolvimento de Sistemas. Curso Análise e Desenvolvimento de Sistemas (ADS) e construo ferramentas próprias para resolver problemas reais do meu dia a dia de trabalho — e é isso que você vai encontrar nos projetos abaixo.
+Comprador Pleno com 10 anos de experiência no setor de construção civil, hoje migrando para Desenvolvimento de Sistemas. Curso Análise e Desenvolvimento de Sistemas (ADS) — construo tanto ferramentas para resolver problemas reais do meu trabalho quanto projetos pessoais que testam minha lógica e capacidade de tirar uma ideia do zero até o fim. É isso que você vai encontrar abaixo.
 
 🔭 Buscando atualmente uma posição de **estágio em desenvolvimento**
 🌱 Aprofundando conhecimento em **Node.js** e lógica de backend
@@ -19,7 +19,22 @@ Comprador Pleno com 10 anos de experiência no setor de construção civil, hoje
 
 ---
 
-## 🚀 Projetos em destaque
+## ⭐ Projeto principal
+
+### 🔔 SONARE
+**[▶ jogar agora](https://guss-lf.github.io/SONARE/)** · [código-fonte](https://github.com/Guss-LF/SONARE)
+
+<img src="https://raw.githubusercontent.com/Guss-LF/SONARE/main/docs/screenshot-gameplay.png" width="380" alt="Fase do Sonare em andamento">
+
+Quebra-cabeça de conexão sonora construído do zero, sem frameworks — HTML5 Canvas puro, um único arquivo. Arraste sinos, conecte-os pelo alcance real do som que emitem, e leve o sinal até o Sino Mestre. Cada uma das 19 fases é validada por um solver de força bruta próprio, garantindo que a meta de 3 estrelas seja sempre matematicamente alcançável.
+
+Esse é o projeto que carrego pra frente — meu principal cartão de visitas. Mostra não só código, mas processo de design, iteração e um problema resolvido do início ao fim, sem depender de nenhuma biblioteca pronta. Ainda em desenvolvimento ativo.
+
+`HTML5 Canvas` `JavaScript` `Algoritmos` `Game Design`
+
+---
+
+## 🚀 Outros projetos
 
 ### 🗂️ [Portal de Suprimentos](https://github.com/Guss-LF/portal-suprimentos-showcase)
 Sistema de gestão de compras para múltiplas obras simultâneas, com dashboard de KPIs, controle de acesso por usuário e relatórios de pontualidade de fornecedores. Em uso diário por uma equipe real.
